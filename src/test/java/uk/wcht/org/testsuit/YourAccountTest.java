@@ -1,4 +1,4 @@
-package uk.wcht.org.youraccounttest;
+package uk.wcht.org.testsuit;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
